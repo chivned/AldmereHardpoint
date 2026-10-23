@@ -1,0 +1,13 @@
+{
+  "name": "Aldmere Hardpoint",
+  "description": "Hardpoint game mode for the Aldmere Works map. Five zones go live in turn for 70 s each, marked by a wall of light (white free, blue Agatha, red Mason, purple contested). A team scores 1 point per second while only its players hold the live zone; first to 220 wins. Everyone in the match needs it. It stays idle on other maps.",
+  "authors": [
+    "Ned"
+  ],
+  "mod_dependencies": [
+    {
+      "repo_url": "https://github.com/Chiv2-Community/ArgonSDK-Mods",
+      "version": ">=0.0.1"
+    }
+  ]
+}
